@@ -73,10 +73,6 @@ export function App(){
         }
     },[curretTVShow])
 
-    console.log(curretTVShow)
-    console.log(recommentaionsList)
-
-
     return(
     <div className={s.main_container}
         style={{
